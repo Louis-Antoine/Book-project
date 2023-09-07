@@ -5,3 +5,13 @@ This is a copy on my personal github to showcase it in one place.
 
 This website allows the user to log books they have read (favourite books, "To read" list, "Reading List", etc.)
 
+# Screenshots
+
+Main page
+![Main page](/git/image2.png)
+
+Book details
+![Book Details](/git/image10.png)
+
+Architecture
+![Architecture](/git/image5.png)
