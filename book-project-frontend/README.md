@@ -20,7 +20,7 @@ This application allows for the management of books according to reading status.
     * Chakra UI
 * Backend
     * Fast API
-    * Auth0
+    * SQLite
     
 # Installation
 This project was bootstrapped with
